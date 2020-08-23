@@ -1,0 +1,31 @@
+
+.checkout_product {
+    display: flex;
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+.checkout_left {
+    display: flex;
+}
+.checkout_product_rating {
+    display: flex;
+}
+.checkout_product_btn {
+    background-color: #f0c14b;
+    border : 1px solid;
+    border-color:#d39b0c #d1990c #cf9a07 ;
+}
+.checkout_product_img {
+    margin-bottom: 10px;
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    max-height: 180px;
+}
+.checkbox_product_info {
+    padding:20px
+}
+.checkbox_product_title{
+    font-weight: 600;
+    text-decoration: none;
+}
